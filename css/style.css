@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    margin: 0;
+    height: 100vh; /* Altura completa de la ventana */
+    display: flex;
+    justify-content: center; /* Centrado horizontal */
+    align-items: center; /* Centrado vertical */
+}
+
+h1 {
+    color: antiquewhite;
+    font-size: 15vw; /* Escalado proporcional para que se ajuste en pantallas grandes y pequeñas */
+    text-align: center;
+    transition: font-family 0.5s ease; /* Transición suave al cambiar la fuente */
+    animation-duration: 2s;
+}
+
+.matemasie-regular-ser {
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .edu-vic-wa-nt-beginner-ser {
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .borel-regular-ser {
+    font-family: "Borel", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .playwrite-is-ser {
+    font-family: "Playwrite IS", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .permanent-marker-regular-ser {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
